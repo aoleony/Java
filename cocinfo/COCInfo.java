@@ -52,5 +52,10 @@ public enum COCInfo {//max levels      cost in each levels                    he
     int[] health() {
         return health;
     }
+    // comparing monster's health, cost 
+    // name means the monster 
+    void compare(int level, String name) {
+        //something goes in here
+    }
 
 }
